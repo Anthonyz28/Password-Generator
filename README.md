@@ -7,9 +7,9 @@
     CSS
     Javascript
 ## Website
-    https://anthonyz28.github.io/Password-Generator/.
+https://anthonyz28.github.io/Password-Generator/.
 ## Screenshots
-    ![screenshot](assets/images/screenshot.png)
+![screenshot](assets/images/screenshot.png)
  
 ## Contribution
     Make By Anthony Martinez
